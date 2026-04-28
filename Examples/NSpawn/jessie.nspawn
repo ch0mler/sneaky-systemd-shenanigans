@@ -1,0 +1,7 @@
+[Exec]
+; If enabled, systemd-nspawn will automatically search for an init executable and invoke it.
+Boot=off
+; If enabled, the container is run with a temporary snapshot of its file system that is removed immediately when the container terminates.
+Ephemeral=off
+; This is either a command line, beginning with the binary name to execute, or – if Boot= is enabled – the list of arguments to pass to the init process
+Parameters=/bin/echo "hello from jessie"

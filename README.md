@@ -14,6 +14,7 @@ I'll be using the [MITRE ATT&CK](https://attack.mitre.org/) framework to guide t
 * [Examples/BindShell](Examples/BindShell/BindShell.md)
 * [Examples/DBus](Examples/DBus/DBus.md)
 * [Examples/NetcatWithoutTheE](Examples/NetcatWithoutTheE/NetcatWithoutTheE.md)
+* [Examples/NSpawn (WIP)](Examples/NSpawn/NSpawn.md)
 * [Examples/ProxyInitialization](Examples/ProxyInitialization/ProxyInitialization.md)
 * [Examples/ScheduledReverseShell](Examples/ScheduledReverseShell/ScheduledReverseShell.md)
 * [Examples/TmpFiles](Examples/TmpFiles/TmpFiles.md)
